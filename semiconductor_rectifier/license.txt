@@ -1,0 +1,11 @@
+Model Information:
+* title:	Semiconductor Rectifier
+* source:	https://sketchfab.com/3d-models/semiconductor-rectifier-1241b4800fdf45a2a4898fbd76c74c24
+* author:	Wieslaw Kruczala (https://sketchfab.com/kruczalaw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Semiconductor Rectifier" (https://sketchfab.com/3d-models/semiconductor-rectifier-1241b4800fdf45a2a4898fbd76c74c24) by Wieslaw Kruczala (https://sketchfab.com/kruczalaw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
